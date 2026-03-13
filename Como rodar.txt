@@ -1,7 +1,7 @@
 Para rodar, cerifique-se de ter uma máquina com Windows, VsCode e nodejs instalado
 
 Passo 1: Iniciar o Node no projeto
-Abra a pasta do projeto no VsCode, abra o terminal do vscode e digite node init -y
+Abra a pasta do projeto no VsCode, abra o terminal do vscode e digite npm init -y
 
 
 Passo 2: Instalar as bibliotecas
