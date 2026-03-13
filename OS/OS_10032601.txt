@@ -1,0 +1,8 @@
+OS: 10032601
+Cliente: claudia
+Telefone: 110561803108369
+Serviço: Formatação COM backup
+Data: 10/03/2026
+Hora: 22:28:25
+Equipamento: Notebook
+Modelo: lenovo ideapad  s15

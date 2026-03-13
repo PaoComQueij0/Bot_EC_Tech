@@ -1,0 +1,19 @@
+Para rodar, cerifique-se de ter uma máquina com Windows, VsCode e nodejs instalado
+
+Passo 1: Iniciar o Node no projeto
+Abra a pasta do projeto no VsCode, abra o terminal do vscode e digite node init -y
+
+
+Passo 2: Instalar as bibliotecas
+Usando o npm do node, instale as seguintes bibliotecas com o comando npm install whatsapp-web.js qrcode-terminal fs
+
+whatsapp-web.js: biblioteca que permite a comunicação com o Whatsapp
+
+fs: permite interagir com os sistemas de arquivos do sistema
+
+qrcode-terminal: gera qr codes no terminal
+
+
+Passo 3: Rodar o bot 
+
+Utilize o comando node bot.js, assim que aparecer o qr code, entre no seu whatsapp ou whatsapp business, va em dispositivos conectados e conecte o bot através do qr code, quando aparecer que o bot está online, tudo esta funcionando corretamente
